@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="1-bobo"/>
+	<classpathentry kind="src" path="2-substituto"/>
+	<classpathentry kind="src" path="3-substituto"/>
+	<classpathentry kind="src" path="4-espiao"/>
+	<classpathentry kind="src" path="5-espiao"/>
+	<classpathentry kind="src" path="6-imitacao"/>
+	<classpathentry kind="src" path="7-imitacao"/>
+	<classpathentry kind="src" path="8-falso"/>
+	<classpathentry kind="src" path="9-mockito"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/easymock.jar"/>
+	<classpathentry kind="lib" path="lib/mockito-all-1.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

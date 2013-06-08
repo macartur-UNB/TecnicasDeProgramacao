@@ -1,0 +1,38 @@
+Este ZIP contém exemplos de vários tipos de dublês.
+
+Ele foi desenvolvido usando Eclipse 3.5, que pode ser obtido em:
+http://eclipse.org/downloads/
+
+========== Importando para o Eclipse ===========================================
+
+O projeto pode ser importado diretamente para o Eclipse através do wizard de
+importação acessado pelo menu "File > Import...". Basta escolher a opção
+"General > Existing Projects into Workspace" e especificar o local do ZIP.
+
+========== Dependências ========================================================
+
+Além disso, o projeto tem as seguintes dependências:
+  * EasyMock - http://easymock.org
+  * Mockito - http://mockito.org
+
+O projeto já contém o EasyMock 2.4.2 e o Mockito 1.8.0 na pasta lib.
+
+========== Conteúdo do Projeto =================================================
+
+O projeto contém 9 pastas de código. As 8 primeiras são exemplo que podem ser
+acompanhados com os slides sobre Objetos Dublês disponíveis em
+http://www.agilcoop.org.br/curso_de_verao_2010. A nona pasta contém um exemplo
+adicional usando a biblioteca Mockito.
+
+========== Executando os Testes ================================================
+
+Todos os testes do projeto podem ser executados de uma vez clicando com botão
+direito na raiz do projeto e pedindo para executar todos como testes JUnit.
+
+Alternativamente, é possível rodar os testes um a um.
+
+================================================================================
+
+Distribuído pela AgilCoop - http://www.agilcoop.org.br
+Desenvolvido por Mariana Bravo - mari@agilcoop.org.br
+
